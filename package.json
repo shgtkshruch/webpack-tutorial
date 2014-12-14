@@ -4,7 +4,7 @@
   "description": "webpack small tutorial",
   "main": "index.js",
   "scripts": {
-    "start": "webpack ./entry.js bundle.js"
+    "start": "webpack"
   },
   "repository": {
     "type": "git",
